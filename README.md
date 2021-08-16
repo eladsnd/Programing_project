@@ -17,11 +17,8 @@ The following files are required for running the K-means++ algorithm (using Pyth
 
 #### Spectral Clustering Algorithm
 * `main.py` — project's entering point
-* `ops.py` — opertaions on matrices such as creating the normalized laplacian matrix, qr decomposition, MGS and more  
 * `kmeans_pp.py` — K-means++ algorithm implementation
 * `tasks.py` — invoke tasks
-* `utils.py` — exporting output result files
-* `visual.py` — exporting visual pdf file for comapring K-means and Spectral Clustering algorithms results
 
 
 ### How to run?
